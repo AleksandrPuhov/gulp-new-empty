@@ -1,6 +1,6 @@
 # Starting template for work
 
-This is a template for create HTML CSS and JS code.
+This is a template for creating HTML CSS and JS code.
 Here use Gulp + Pug + SCSS.
 
 ## Installation
