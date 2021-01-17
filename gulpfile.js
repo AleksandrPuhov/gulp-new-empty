@@ -15,8 +15,8 @@ const dev = gulp.parallel(
     styles,
     imageMinify,
     spriteSVG,
-    fonts,
-    libsJS
+    fonts
+    //    libsJS
 );
 
 exports.default = gulp.series(clean, dev, serverWatch);

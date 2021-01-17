@@ -1,7 +1,8 @@
 const gulp = require('gulp');
 const concat = require('gulp-concat');
 
-const libs = ['node_modules/swiper/swiper-bundle.min.js'];
+//const libs = ['node_modules/swiper/swiper-bundle.min.js'];
+const libs = [];
 
 const libsJS = () =>
     libs.length
